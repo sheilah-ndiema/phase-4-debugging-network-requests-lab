@@ -64,10 +64,16 @@ developing your own process.
 
   - How I debugged:
 
+  *error was unititialized server error 500
+  *checked for typos and corrected
+
 - Update the number of likes for a toy
 
   - How I debugged:
+    *chek for type of error(json) corrected error by *ensuring render json
 
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+    checked for type of error(404)
+    \*corrected error by writing a new route
